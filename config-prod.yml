@@ -1,0 +1,4 @@
+spring:
+  profiles: prod     #部署环境
+  application: 
+    name: cloud-config-prod
