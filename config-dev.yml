@@ -1,4 +1,4 @@
 spring:
-  profiles: devv1     #开发环境
+  profiles: dev     #开发环境
   application: 
-    name: cloud-config-dev
+    name: cloud-config-devv1
