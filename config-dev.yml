@@ -1,4 +1,4 @@
 spring:
   profiles: dev     #开发环境
   application: 
-    name: cloud-config-devv5
+    name: cloud-config-devv6
