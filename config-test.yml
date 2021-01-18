@@ -1,6 +1,6 @@
  spring:
-   profiles: test     #测试环境
-    application: 
-     name: cloud-config-test
+  profiles: test     #测试环境
+   application: 
+    name: cloud-config-test
 
 test------------------------------------------
